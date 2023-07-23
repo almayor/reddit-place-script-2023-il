@@ -32,7 +32,7 @@ class PlaceClient:
         self.raw_pixel_y_start: int = self.json_data["image_start_coords"][1]
         if self.raw_pixel_x_start >= 500:
             self.pixel_x_start = self.raw_pixel_x_start - 500
-        elif 0 <= self.raw_pixel_x_start < 500:
+        elif -500 <= self.raw_pixel_x_start < 500:
             self.pixel_x_start = self.raw_pixel_x_start + 500
         else:
             self.pixel_x_start = self.raw_pixel_x_start + 1500
