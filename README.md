@@ -1,12 +1,16 @@
-# Reddit Place Script 2023
+<img width="540" alt="image" src="https://github.com/WorldObservationLog/reddit-place-script-2023/assets/115352805/fffbec53-c9df-4a89-ae19-fe64aed39d70"># Reddit Place Script 2023
 
 [![Code style: black](./black_badge.svg)](https://github.com/psf/black)
 [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/60-percent-of-the-time-works-every-time.svg)](https://forthebadge.com)
 
-# HELP WANTED!
+# NOTICE!
 
-This project now has many bugs and I have no ability to debug. More developers are wanted.
+Reddit has added shadow banning mechanism. It performs that the coords where succeed placed an pixel (no matter placed by script or mannuly) is actually not placed from the perspective of other accounts.
+
+Using an account to observe the actual situation is necessary. Don't run many accounts in one ip. Using tor will also caused the shadow banning. Maybe US ip can reduce the possibility of banning.
+
+It's not a bug. Please DO NOT feedback it.
 
 **Because the maintainer's timezone is UTC+8, issues will usually not be resolved in time.**
 
