@@ -4,13 +4,15 @@
 [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/60-percent-of-the-time-works-every-time.svg)](https://forthebadge.com)
 
-# HELP WANTED!
+# NOTICE!
 
-This project now has many bugs and I have no ability to debug. More developers are wanted.
+Reddit has added shadow banning mechanism. It performs that the coords where succeed placed an pixel (no matter placed by script or mannuly) is actually not placed from the perspective of other accounts.
 
-Confirmed Bugs:
+Using an account to observe the actual situation is necessary. Don't run many accounts in one ip. Using tor will also caused the shadow banning. Maybe US ip can reduce the possibility of banning.
 
-- Nothing now
+It's not a bug. Please DO NOT feedback it.
+
+**Because the maintainer's timezone is UTC+8, issues will usually not be resolved in time.**
 
 # Thanks to everyone who contributed! r/place is now over!
 <a href="https://github.com/rdeepak2002/reddit-place-script-2022/graphs/contributors">
