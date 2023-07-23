@@ -1,4 +1,4 @@
-<img width="540" alt="image" src="https://github.com/WorldObservationLog/reddit-place-script-2023/assets/115352805/fffbec53-c9df-4a89-ae19-fe64aed39d70"># Reddit Place Script 2023
+# Reddit Place Script 2023
 
 [![Code style: black](./black_badge.svg)](https://github.com/psf/black)
 [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
