@@ -8,9 +8,7 @@
 
 This project now has many bugs and I have no ability to debug. More developers are wanted.
 
-Confirmed Bugs:
-
-- Nothing now
+**Because the maintainer's timezone is UTC+8, issues will usually not be resolved in time.**
 
 # Thanks to everyone who contributed! r/place is now over!
 <a href="https://github.com/rdeepak2002/reddit-place-script-2022/graphs/contributors">
